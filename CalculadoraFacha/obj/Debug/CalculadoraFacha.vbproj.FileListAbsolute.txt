@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\CalculadoraFacha.exe.config
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\CalculadoraFacha.exe
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\CalculadoraFacha.pdb
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\CalculadoraFacha.xml
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\Logica.dll
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\Logica.pdb
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\bin\Debug\Logica.xml
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.Form1.resources
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.Resources.resources
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.vbproj.CopyComplete
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.exe
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.xml
+C:\Users\Usuario\source\repos\CalculadoraFacha\CalculadoraFacha\obj\Debug\CalculadoraFacha.pdb
